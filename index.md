@@ -1,5 +1,19 @@
 ## Welcome to GitHub Pages
 
+
+
+# Srikar Yerramilli's First CS193 Homework
+
+
+- Very interactive class
+- Good working enviornement 
+- Course material is easy to follow
+- Instructors are very thourough 
+
+1. Numbered
+2. List
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -15,13 +29,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Very interactive class
-- Good working enviornement 
-- Course material is easy to follow
-- Instructors are very thourough 
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
