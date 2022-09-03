@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-
-# Srikar Yerramilli's First CS193 Homework
+# Srikar Yerramilli's First CS 193 Homework
 
 
 - Very interactive class
@@ -25,9 +24,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Srikar Yerramilli's First CS193 Homework
-## Header 2
-### Header 3
 
 
 **Bold** and _Italic_ and `Code` text
